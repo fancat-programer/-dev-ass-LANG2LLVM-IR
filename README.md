@@ -1,1 +1,1 @@
-# /dev/ass/LANG2LLVM IR
+/dev/ass/LANG compiler in LLVM IR
